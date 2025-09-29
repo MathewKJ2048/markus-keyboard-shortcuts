@@ -5,7 +5,7 @@ A Greasemonkey script to introduce keyboard shortcuts for MarkUs
 
 - Install the [Greasemonkey](https://addons.mozilla.org/en-CA/firefox/addon/greasemonkey/) extension (Firefox) or [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension (Chromium/Chrome)
 - Create a new userscript
-- Copy the contents of [script.js](https://github.com/MathewKJ2048/markus-keyboard-shortcuts) into the userscript file
+- Copy the contents of [script.js](https://github.com/MathewKJ2048/markus-keyboard-shortcuts/blob/main/script.js) into the userscript file
 - Modify keybindings if needed by editing the file
 - Save and enable the script
 
